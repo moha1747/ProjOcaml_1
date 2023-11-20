@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ProjOcaml/META"
+  "_build/install/default/lib/ProjOcaml/dune-package"
+  "_build/install/default/lib/ProjOcaml/opam"
+]
+bin: [
+  "_build/install/default/bin/ProjOcaml"
+]
